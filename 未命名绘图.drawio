@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="gTBovci5pZ-dD2xp9piM">
+    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="izwfqLjU9ndsKab4ubpm-5" edge="1" parent="1" source="izwfqLjU9ndsKab4ubpm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" target="izwfqLjU9ndsKab4ubpm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-6" edge="1" parent="1" source="izwfqLjU9ndsKab4ubpm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=openThin;endFill=0;" target="izwfqLjU9ndsKab4ubpm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="180" />
+              <mxPoint x="180" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-7" edge="1" parent="1" source="izwfqLjU9ndsKab4ubpm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=openThin;endFill=0;" target="izwfqLjU9ndsKab4ubpm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="180" />
+              <mxPoint x="660" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;PyMotor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-8" edge="1" parent="1" source="izwfqLjU9ndsKab4ubpm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" target="izwfqLjU9ndsKab4ubpm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Encode&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="120" x="120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-10" edge="1" parent="1" source="izwfqLjU9ndsKab4ubpm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=openThin;startFill=0;endArrow=openThin;endFill=0;" target="izwfqLjU9ndsKab4ubpm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;prefill&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="120" x="360" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;decode&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="120" x="600" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Encoder Cache&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transfer Engine&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="97" x="249" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="izwfqLjU9ndsKab4ubpm-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;KV Cache&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transfer Engine&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="97" x="492" y="309" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
