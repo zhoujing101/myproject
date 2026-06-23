@@ -94,7 +94,7 @@
         <mxCell id="Mys1cHhJIbqOQDUFSX36-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="Final Turn" vertex="1">
           <mxGeometry height="30" width="60" x="169" y="495" as="geometry" />
         </mxCell>
-        <mxCell id="Mys1cHhJIbqOQDUFSX36-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#23445d;fillStyle=auto;opacity=20;fontSize=19;" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;...&lt;/span&gt;" vertex="1">
+        <mxCell id="Mys1cHhJIbqOQDUFSX36-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#23445d;fillStyle=auto;opacity=20;fontSize=19;" value="" vertex="1">
           <mxGeometry height="40" width="91" x="569" y="490" as="geometry" />
         </mxCell>
         <mxCell id="Mys1cHhJIbqOQDUFSX36-60" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;rounded=1;" value="" vertex="1">
@@ -155,7 +155,13 @@
           <mxGeometry height="30" width="60" x="925" y="460" as="geometry" />
         </mxCell>
         <mxCell id="Mys1cHhJIbqOQDUFSX36-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fillStyle=hatch;fontColor=#ffffff;opacity=60;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;history prompt&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="421" x="238.5" y="490" as="geometry" />
+          <mxGeometry height="40" width="421" x="239" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys1cHhJIbqOQDUFSX36-79" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;dashPattern=1 2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="606" y="510.5" as="sourcePoint" />
+            <mxPoint x="627" y="510.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
